@@ -450,7 +450,7 @@ while true; do
   echo -e "${RED}╱╱╭┳━━━┳━━━━┳━━━━╮                               "
   echo -e "${RED}╱╱┃┃╭━━┫╭╮╭╮┣━━╮━┃   Auto Installer JetzOfficial Private   ${NC}"
   echo -e "${RED}╱╱┃┃╰━━╋╯┃┃╰╯╱╭╯╭╯   ------------------------  ${NC}"
-  echo -e "${RED}╭╮┃┃╭━━╯╱┃┃╱╱╭╯╭╯     • WhatsApp : wa.me/685722271832    ${NC}"
+  echo -e "${RED}╭╮┃┃╭━━╯╱┃┃╱╱╭╯╭╯     • WhatsApp : wa.me/6285722271832    ${NC}"
   echo -e "${RED}┃╰╯┃╰━━╮╱┃┃╱╭╯━╰━╮    • Telegram : t.me/JetzOffc${NC}"
   echo -e "${RED}╰━━┻━━━╯╱╰╯╱╰━━━━╯    • Credit By JetzOfficial${NC}"
   echo -e "                                                                     "
