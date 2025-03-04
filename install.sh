@@ -447,12 +447,12 @@ check_token
 while true; do
   clear
   echo -e "                                                           " 
-  echo -e "╱╱╭┳━━━┳━━━━┳━━━━╮                               "
-  echo -e "╱╱┃┃╭━━┫╭╮╭╮┣━━╮━┃   Auto Installer JetzOfficial Private   ${NC}"
-  echo -e "╱╱┃┃╰━━╋╯┃┃╰╯╱╭╯╭╯   ------------------------  ${NC}"
-  echo -e "╭╮┃┃╭━━╯╱┃┃╱╱╭╯╭╯     • WhatsApp : wa.me/685722271832    ${NC}"
-  echo -e "┃╰╯┃╰━━╮╱┃┃╱╭╯━╰━╮    • Telegram : t.me/JetzOffc${NC}"
-  echo -e "╰━━┻━━━╯╱╰╯╱╰━━━━╯    • Credit By JetzOfficial${NC}"
+  echo -e "${RED}╱╱╭┳━━━┳━━━━┳━━━━╮                               "
+  echo -e "${RED}╱╱┃┃╭━━┫╭╮╭╮┣━━╮━┃   Auto Installer JetzOfficial Private   ${NC}"
+  echo -e "${RED}╱╱┃┃╰━━╋╯┃┃╰╯╱╭╯╭╯   ------------------------  ${NC}"
+  echo -e "${RED}╭╮┃┃╭━━╯╱┃┃╱╱╭╯╭╯     • WhatsApp : wa.me/685722271832    ${NC}"
+  echo -e "${RED}┃╰╯┃╰━━╮╱┃┃╱╭╯━╰━╮    • Telegram : t.me/JetzOffc${NC}"
+  echo -e "${RED}╰━━┻━━━╯╱╰╯╱╰━━━━╯    • Credit By JetzOfficial${NC}"
   echo -e "                                                                     "
   echo -e "BERIKUT LIST INSTALL :"
   echo "1. Install theme"
